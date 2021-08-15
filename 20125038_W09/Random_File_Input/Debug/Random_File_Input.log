@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\CS163\20125038_W09\Random_File_Input\Source.cpp(9,20): warning C4018: '<': signed/unsigned mismatch
+E:\CS163\20125038_W09\Random_File_Input\Source.cpp(34,20): warning C4018: '<': signed/unsigned mismatch
+  Random_File_Input.vcxproj -> E:\CS163\20125038_W09\Debug\Random_File_Input.exe

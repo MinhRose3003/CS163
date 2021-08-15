@@ -1,0 +1,6 @@
+﻿  p8.cpp
+  Source.cpp
+E:\CS163\20125038_W09\p8\Source.cpp(41,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\CS163\20125038_W09\p8\Source.cpp(51,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  p8.vcxproj -> E:\CS163\20125038_W09\Debug\p8.exe
